@@ -1,0 +1,102 @@
+{
+  "/home/jaziel/Proyectos/S-Can/backend/server.js": {
+    "mtime": 1778519823.644989,
+    "hash": "355dcfffe88a42f5ad3fba044888de67"
+  },
+  "/home/jaziel/Proyectos/S-Can/backend/data/breeds.js": {
+    "mtime": 1778520310.2477827,
+    "hash": "5d4cd7cf0e93a01dde77672d5a4ac15e"
+  },
+  "/home/jaziel/Proyectos/S-Can/backend/controllers/detectController.js": {
+    "mtime": 1778521613.0657887,
+    "hash": "2c5f19f6cea28796e6b6c221439517f4"
+  },
+  "/home/jaziel/Proyectos/S-Can/backend/services/aiService.js": {
+    "mtime": 1778530427.452701,
+    "hash": "38613bf66bbcfd2fa969c85434facc3a"
+  },
+  "/home/jaziel/Proyectos/S-Can/backend/routes/detect.js": {
+    "mtime": 1778519818.9010303,
+    "hash": "e57fdc3ec98652487a07b12a640d7c55"
+  },
+  "/home/jaziel/Proyectos/S-Can/backend/middlewares/upload.js": {
+    "mtime": 1778519811.7540922,
+    "hash": "2ba7f397796a73ad17389978bd8644a0"
+  },
+  "/home/jaziel/Proyectos/S-Can/ai/predict.py": {
+    "mtime": 1778530400.0038917,
+    "hash": "f4f0537e82ef2acad23fea8275f3f5d7"
+  },
+  "/home/jaziel/Proyectos/S-Can/ai/train.py": {
+    "mtime": 1778529949.065473,
+    "hash": "fe5c23b4c15361baefb04d9bd8ca3657"
+  },
+  "/home/jaziel/Proyectos/S-Can/ai/prepare_dataset.py": {
+    "mtime": 1778523292.0407069,
+    "hash": "96e392ad3c7544c64d64eb7b87029506"
+  },
+  "/home/jaziel/Proyectos/S-Can/ai/utils/training_utils.py": {
+    "mtime": 1778529902.3124235,
+    "hash": "f289c48be08dda2265abae90dd1572f6"
+  },
+  "/home/jaziel/Proyectos/S-Can/ai/utils/__init__.py": {
+    "mtime": 1778523255.9669414,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/jaziel/Proyectos/S-Can/ai/utils/image_utils.py": {
+    "mtime": 1778523267.216227,
+    "hash": "7b2aa12210c1b3717dadaf573e19afed"
+  },
+  "/home/jaziel/Proyectos/S-Can/frontend/js/main.js": {
+    "mtime": 1778522369.3144991,
+    "hash": "bb2a84d542ac4c13ff566845ac640114"
+  },
+  "/home/jaziel/Proyectos/S-Can/frontend/js/history.js": {
+    "mtime": 1778522181.4701982,
+    "hash": "914ae246e4d0150a69ddef663b44480c"
+  },
+  "/home/jaziel/Proyectos/S-Can/frontend/js/stats.js": {
+    "mtime": 1778522349.067962,
+    "hash": "4784aac1e761b468de68082ad6ff3cd4"
+  },
+  "/home/jaziel/Proyectos/S-Can/ai/requirements.txt": {
+    "mtime": 1778523238.7690647,
+    "hash": "ff50a81c9c5fc3e66d84f61023fbd336"
+  },
+  "/home/jaziel/Proyectos/S-Can/frontend/index.html": {
+    "mtime": 1778548431.670654,
+    "hash": "8eaa4a3b5677e0820985ae1ef3cff40d"
+  },
+  "/home/jaziel/Proyectos/S-Can/docs/API.md": {
+    "mtime": 1778550694.5844376,
+    "hash": "491ae42d626e48ca56c6905dfb9e3066"
+  },
+  "/home/jaziel/Proyectos/S-Can/docs/DEPLOYMENT.md": {
+    "mtime": 1778550864.1235867,
+    "hash": "95e345619274c8a8201706661696640a"
+  },
+  "/home/jaziel/Proyectos/S-Can/docs/ARCHITECTURE.md": {
+    "mtime": 1778550667.5774908,
+    "hash": "3b32e36911134017dd0ae0862f97aaaa"
+  },
+  "/home/jaziel/Proyectos/S-Can/docs/AI_PIPELINE.md": {
+    "mtime": 1778550761.509202,
+    "hash": "eae2b5baa63050846372b5f16937524c"
+  },
+  "/home/jaziel/Proyectos/S-Can/docs/TRAINING_GUIDE.md": {
+    "mtime": 1778550817.4359016,
+    "hash": "ea41a219be192673c91d4074ef5ba7c8"
+  },
+  "/home/jaziel/Proyectos/S-Can/docs/README.md": {
+    "mtime": 1778550598.1735044,
+    "hash": "cc926e82c08955cea97b60a53a370567"
+  },
+  "/home/jaziel/Proyectos/S-Can/claude.md": {
+    "mtime": 1778518441.0099328,
+    "hash": "ef3fc3869af7772cbd25173ee870a5ca"
+  },
+  "/home/jaziel/Proyectos/S-Can/README.md": {
+    "mtime": 1778551347.2619164,
+    "hash": "bfa967d65558b7a3fd12f567c690a137"
+  }
+}

@@ -1,0 +1,18 @@
+DogDex — Reporte de evaluación sobre test set
+==================================================
+
+Loss:     0.1621
+Accuracy: 0.9403 (94.0%)
+
+Reporte por clase:
+                    precision    recall  f1-score   support
+
+            beagle       0.94      0.97      0.95        30
+         chihuahua       0.95      0.88      0.91        24
+  golden_retriever       0.96      0.96      0.96        23
+   husky_siberiano       0.94      0.97      0.95        30
+labrador_retriever       0.93      0.93      0.93        27
+
+          accuracy                           0.94       134
+         macro avg       0.94      0.94      0.94       134
+      weighted avg       0.94      0.94      0.94       134

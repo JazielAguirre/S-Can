@@ -1,0 +1,34 @@
+# ── Entorno Python ────────────────────────────────────────────
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# ── Modelos entrenados (archivos binarios pesados) ────────────
+*.h5
+*.keras
+*.onnx
+*.tflite
+*.pb
+
+# Conservar los artefactos pequeños y la estructura del directorio
+!models/class_indices.json
+!models/evaluation_report.txt
+!models/.gitkeep
+!models/training_*.png
+
+# ── Dataset: imágenes (no van al repositorio) ─────────────────
+dataset/raw/*
+!dataset/raw/.gitkeep
+
+dataset/processed/*
+!dataset/processed/.gitkeep
+
+# Fuente original del dataset (1.6 GB)
+dataset_source/
+
+# ── Dependencias Node (residual en ai/) ───────────────────────
+node_modules/
+package-lock.json
